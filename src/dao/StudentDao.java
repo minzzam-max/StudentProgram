@@ -3,8 +3,10 @@ package dao;
 import java.util.Scanner;
 import dto.StudentDto;
 
+// dao 수정함!!
 // Data Access Object
 public class StudentDao {
+	
 	Scanner sc = new Scanner(System.in);
 	
 	private StudentDto students[] = {
