@@ -3,7 +3,7 @@ package dao;
 import java.util.Scanner;
 import dto.StudentDto;
 
-// dao 수정함!!
+// dao 수정
 // Data Access Object
 public class StudentDao {
 	
